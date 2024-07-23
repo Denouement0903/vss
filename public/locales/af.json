@@ -1,0 +1,16 @@
+{
+  "common": {
+    "languageSwitcher": "Taal Keuse",
+    "english": "Engels",
+    "afrikaans": "Afrikaans",
+    "isixhosa": "isiXhosa"
+  },
+  "home": {
+    "title": "Welkom op ons webwerf",
+    "description": "Dit is 'n voorbeeld beskrywing vir die tuisblad."
+  },
+  "about": {
+    "title": "Oor Ons",
+    "description": "Leer meer oor ons maatskappy en ons missie."
+  }
+}

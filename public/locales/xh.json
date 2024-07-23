@@ -1,0 +1,16 @@
+{
+  "common": {
+    "languageSwitcher": "Isitshumexi Lwelwimi",
+    "english": "IsiNgesi",
+    "afrikaans": "IsiAfrikansi",
+    "isixhosa": "IsiXhosa"
+  },
+  "home": {
+    "title": "Wamkelekile kwiwebhusayithi yethu",
+    "description": "Oku kuchaphazelo lwesampule lekhasi lasekhaya."
+  },
+  "about": {
+    "title": "Ngathi",
+    "description": "Funda ngakumbi ngeqhinga lethu nembono yethu."
+  }
+}
