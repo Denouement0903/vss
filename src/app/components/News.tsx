@@ -8,14 +8,14 @@ import arrow from "../assets/arrow.png"
 export default function News() {
   return (
       <>
-    <section className="mt-20 py-12 md:py-16 lg:py-20">
+    <section className="mt-20 py-4 md:py-8 lg:py-12">
       <div className="container grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         <NewsCard title="Father and Son BBQ" text="Please support our Tourism department. Tickets available at school." image={news1} alt="Father son fun day" />
         <NewsCard title="Grade 12 help | WCEDE" text="❓ Are you in Gr. 12? Needing help with revision for the upcoming exam?
 👉The WCED Subject teams have collated all the subject content you need to prepare for the exams. Follow the link below for all the revision summaries you need:. Tickets available at school." image={news2} alt="WCEDE grade 12" />
         <NewsCard title="U15 Soccer boys" text="Well done our u15 soccer players at the Build it Tournament. We won both games." image={news3} alt="u15 Soccer boys" />
       </div>
-      <h1 className="text-5xl text-center text-primary mx-auto pt-2 pb-1 font-bold">Let's Explore</h1>
+      <h1 className="text-5xl text-center text-primary mx-auto pt-8 pb-1 font-bold">Let&apos;s Explore</h1>
         {/* <Image
               src={arrow}
               alt="arrow"

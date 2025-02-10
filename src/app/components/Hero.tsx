@@ -15,7 +15,6 @@ export default function Hero() {
               </p>
             </div>
           </div>
-          <News />
         </section>
       </div>
     </div>

@@ -3,7 +3,7 @@ import { JSX, SVGProps } from "react"
 
 export default function Component() {
   return (
-    <footer className="flex h-16 w-full shrink-0 items-center border-t-2 border-gray-100/50 bg-primary px-4 md:px-6 text-sm text-gray-300 justify-start gap-4 dark:border-gray-100/50 dark:bg-gray-950 dark:text-gray-300 dark:border-gray-100/50">
+    <footer className="fixed bottom-0 flex h-16 w-full shrink-0 items-center border-t-2 border-gray-100/50 bg-primary px-4 md:px-6 text-sm text-gray-300 justify-start gap-4 dark:bg-gray-950 dark:text-gray-300 dark:border-gray-100/50">
       <div className="container flex items-center justify-start space-y-2">
         <div className="flex items-center space-y-0">
           <img
